@@ -1,0 +1,2 @@
+(this.webpackJsonpdavinciweb=this.webpackJsonpdavinciweb||[]).push([[0],{4:function(e,t,n){"use strict";n.r(t);var c=n(2),i=n(3);c.render(Object(i.jsx)("h1",{children:"Test"}),document.getElementById("root"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.af964396.chunk.js.map
